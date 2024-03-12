@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/TextAnalyzer/static/css/main.31d6cfe0.css",
+    "main.js": "/TextAnalyzer/static/js/main.2bbde63e.js",
+    "index.html": "/TextAnalyzer/index.html",
+    "main.2bbde63e.js.map": "/TextAnalyzer/static/js/main.2bbde63e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.2bbde63e.js"
+  ]
+}
